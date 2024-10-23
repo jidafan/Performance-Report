@@ -19,4 +19,6 @@ The report for the project can be viewed [here](https://github.com/jidafan/Perfo
 
 #### 2.1 Exploratory Data Analysis
 
-Before we begin working on the dataset, we must understand the data. In this step of the code, we create a data frame using Pandas to hold all the information from the Excel file. 
+Before we begin working on the dataset, we must understand the data. In this step of the code, we look through each table and each column within to understand the data and see the changes that need to be made.
+
+#### 2.1 Data Cleaning
