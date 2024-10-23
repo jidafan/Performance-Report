@@ -15,7 +15,7 @@ The project shown is a PowerBI report of a fictional company named Plant Co. The
 
 ### 2. PowerBI
 
-The code for the project can be viewed [here](https://github.com/jidafan/Retail-Customer-Analysis/blob/main/Customers.ipynb)
+The report for the project can be viewed [here](https://github.com/jidafan/Performance-Report/blob/main/Performance%20Report.pbix)
 
 #### 2.1 Exploratory Data Analysis
 
