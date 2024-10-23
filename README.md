@@ -11,7 +11,7 @@
 
 ### 1. Introduction
 
-The project shown is a PowerBI report of a fictional company named Plant Co. The report shows the YTD and PYTD to provide insight into the company's performance. The data can be accessed [here](https://github.com/jidafan/Performance-Report/blob/main/Plant_DTS.xls).
+The project shown is a PowerBI report of a fictional company named Plant Co. The report uses various charts and graphs to visualize the company's performance during the YTD and PYTD. The report dives into the sales, gross profit and quantity of products sold. The data can be accessed [here](https://github.com/jidafan/Performance-Report/blob/main/Plant_DTS.xls).
 
 ### 2. PowerBI
 
