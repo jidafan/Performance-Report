@@ -5,8 +5,9 @@
   * [2.1 Exploratory Data Analysis](#21-exploratory-data-analysis)
   * [2.2 Data Cleaning](#22-data-cleaning)
   * [2.3 Visualization](#25-visualization)
+      + [2.3.1 Measures](#231-measures)
 - [3. Conclusion](#3-conclusion)
-  * [3.1 Measures](#31-measures)
+
 
 ### 1. Introduction
 
@@ -28,3 +29,4 @@ In this step, we clean the data in the Excel sheet using the PowerQuery editor i
 
 In the next step of this project, we begin the visualization of the company data.
 
+###### 2.31
