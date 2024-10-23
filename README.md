@@ -31,4 +31,20 @@ In the next step of this project, we begin the visualization of the company data
 
 #### 2.31 Measures
 
-Before we begin creating charts and graphs. We will create the custom measures and tables will be used in the analysis. To organize the custom measures, I created a measures table to hold them and put an "_" at the front to move it to the top of the tables.
+Before we begin creating charts and graphs. We will create the custom measures and tables will be used in the analysis. To organize the custom measures, I created a measures table to hold them and put an "_" at the front to move it to the top of the tables. The measures they were created were grouped into 4 groups: PYTD, YTD, Switch, and Base Measures.
+
+1. Previous Year To Date (PYTD)
+
+The measures in this category measure the Previous year's Sales, Quantity, and Gross Profit.
+
+2. Year To Date (YTD)
+
+The measures in this category measure the Current year's Sales, Quantity, and Gross Profit.
+
+3. Switch
+
+The measures in this category hold variables for the filter that allows users to parse through the information on the dashboard. It also contains the comparison between YTD and PYTD.
+
+4. Base Measures
+
+The measures in this category hold the basic measures that do not fall under the under category's such as Cost of Goods and Gross Profit%
