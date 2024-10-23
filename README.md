@@ -22,3 +22,5 @@ The report for the project can be viewed [here](https://github.com/jidafan/Perfo
 Before we begin working on the dataset, we must understand the data. In this step of the code, we look through each table and each column within to understand the data and see the changes that need to be made.
 
 #### 2.1 Data Cleaning
+
+In this step, we clean the data in the Excel sheet using the PowerQuery editor in PowerBI. To clean the data, we changed the datatypes of some columns to align with what they needed to be. The date column in the file was listed as a text column in PowerBI, so we needed to make changes to change it to a date-type column. In the product id column, we removed duplicated and blank values as well.
