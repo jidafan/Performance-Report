@@ -23,10 +23,12 @@ Before we begin working on the dataset, we must understand the data. In this ste
 
 #### 2.2 Data Cleaning
 
-In this step, we clean the data in the Excel sheet using the PowerQuery editor in PowerBI. To clean the data, we changed the datatypes of some columns to align with what they needed to be. The date column in the file was listed as a text column in PowerBI, so we needed to make changes to change it to a date-type column. In the product id column, we removed duplicated and blank values as well.
+In this step, we clean the data in the Excel sheet using the PowerQuery editor in PowerBI. To clean the data, we changed the datatypes of some columns to align with what they needed to be. The date column in the file was listed as a text column in PowerBI, so we needed to make changes to change it to a date-type column. In the product ID column, we removed duplicated and blank values as well.
 
 #### 2.3 Visualization
 
 In the next step of this project, we begin the visualization of the company data.
 
-##### 2.31 Measures
+#### 2.31 Measures
+
+Before we begin creating charts and graphs. We will create the custom measures and tables will be used in the analysis. To organize the custom measures, I created a measures table to hold them and put an "_" at the front to move it to the top of the tables.
