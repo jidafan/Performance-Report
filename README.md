@@ -78,4 +78,6 @@ The last chart featured in this report is a scatterplot that plots the profitabi
 
 In this project, we looked at the sales data of a fake company named PlantCo. We performed data cleaning on the dataset using the PowerQuery editor in PowerBI. Next, we utilized Dax to create custom measures to provide an in-depth look into the data of the company. In the report, we included a filter for years and a filter that allows users to dynamically change the information in the graph. Lastly, we used various charts and graphs to provide a visual explanation of the data. The charts included drill down features to help navigate the data.
 
+![image](https://github.com/user-attachments/assets/252453ba-b8f6-4c8b-915c-aa7c928aa191)
+
 Next Steps: Automate the process, so that information is automatically inputted into the report
