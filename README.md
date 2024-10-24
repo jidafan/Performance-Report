@@ -6,6 +6,7 @@
   * [2.2 Data Cleaning](#22-data-cleaning)
   * [2.3 Visualization](#25-visualization)
       + [2.3.1 Measures](#231-measures)
+      + [2.3.2 Cards](#cards)
 - [3. Conclusion](#3-conclusion)
 
 
@@ -27,9 +28,9 @@ In this step, we clean the data in the Excel sheet using the PowerQuery editor i
 
 #### 2.3 Visualization
 
-In the next step of this project, we begin the visualization of the company data.
+In the next step of this project, we begin the visualization of the company data in PowerBI
 
-#### 2.31 Measures
+#### 2.3.1 Measures
 
 Before we begin creating charts and graphs. We will create the custom measures and tables will be used in the analysis. To organize the custom measures, I created a measures table to hold them and put an "_" at the front to move it to the top of the tables. The measures they were created were grouped into 4 groups: PYTD, YTD, Switch, and Base Measures.
 
@@ -48,3 +49,5 @@ The measures in this category hold variables for the filter that allows users to
 4. Base Measures
 
 The measures in this category hold the basic measures that do not fall under the under category's such as Cost of Goods and Gross Profit%
+
+#### 2.3.2 Cards
