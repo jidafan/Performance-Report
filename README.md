@@ -4,7 +4,7 @@
 - [2. PowerBI](#2-powerbi)
   * [2.1 Exploratory Data Analysis](#21-exploratory-data-analysis)
   * [2.2 Data Cleaning](#22-data-cleaning)
-  * [2.3 Visualization](#25-visualization)
+  * [2.3 Visualization](#23-visualization)
       + [2.3.1 Measures](#231-measures)
       + [2.3.2 Cards](#cards)
 - [3. Conclusion](#3-conclusion)
